@@ -24,7 +24,7 @@ Right now, I’m diving deep into:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-2C2C2C?style=flat&logo=kicad&logoColor=orange)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) (I use Arch btw)
 
 ---
 
